@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Espaço para o logo/banner do projeto: troque o caminho quando a imagem existir -->
-<img src="https://github.com/user-attachments/assets/385b7a5b-c715-4fc8-b2df-14d4defdfb1c" alt="Lockon CRM" width="720" />
+<img src="https://github.com/user-attachments/assets/385b7a5b-c715-4fc8-b2df-14d4defdfb1c" alt="Lockon CRM" width="500" />
 
 # Lockon CRM
 
